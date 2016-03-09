@@ -7,4 +7,8 @@ For: RoketWorks
 Contact: aqworldjohnsonalpha1@gmail.com
 Code: C++
 
+Copyright (C) RoketWorks, Inc - All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited
+Proprietary and confidential
+Written by Alpha Shabazz <aqworldjohnsonalpha1@gmail.com>, January 2015
 
